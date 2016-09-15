@@ -1,5 +1,4 @@
 # CSCI3308
 Lab 4
 #Alexandra Koudele
-#UOSAWDSEFRGHJKDFGHM
 #CSCI 3308 Section 5
